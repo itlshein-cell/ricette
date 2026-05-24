@@ -1,0 +1,14 @@
+# Ricette Mie
+
+> Blog di cucina italiana autentica: ricette tradizionali di pasta, pizza, risotto, dolci e altro, raccontate passo dopo passo.
+
+## Pages
+
+- [Home](/): introduzione al blog e ricette in evidenza
+- [Tutte le ricette](/ricette): elenco completo filtrabile per categoria
+- [Chi siamo](/info): storia e missione di Ricette Mie
+- [Contatti](/contatti): come scriverci
+
+## Ricette
+
+- [Pasta alla Norma](/ricette/pasta-alla-norma): la ricetta siciliana originale con varianti

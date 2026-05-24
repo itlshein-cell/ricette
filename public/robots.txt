@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ricette-moderna-italia.lovable.app/sitemap.xml
